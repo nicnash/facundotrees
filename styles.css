@@ -205,7 +205,7 @@ nav a:hover { color: var(--light); }
   padding: 96px 0 112px;
   background:
     linear-gradient(to bottom right, rgba(26,46,30,.82), rgba(26,46,30,.58)),
-    url("https://assets.cdn.filesafe.space/7lmCwNybwUCPvaq2RvUc/media/685f0ceda8f9d33920e05491.png")
+    url("images/685f0ceda8f9d33920e05491.png")
       center / cover no-repeat;
   color: var(--light);
 }
